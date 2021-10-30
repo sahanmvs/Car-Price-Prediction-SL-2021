@@ -1,11 +1,11 @@
 # Car-Price-Prediction-SL-2021
 Predict fair price for used and brand new cars in Sri lanka(2021)
 
-##Used Technologies
+## Used Technologies
   Pyhton
   Flask
 
-##Tools
+## Tools
   JupyterNotebook
   Pychram
   Vs code
